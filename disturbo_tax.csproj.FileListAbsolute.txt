@@ -1,0 +1,36 @@
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\bin\Debug\disturbo_tax.exe.config
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\bin\Debug\disturbo_tax.exe
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\bin\Debug\disturbo_tax.pdb
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.csprojAssemblyReference.cache
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.Properties.Resources.resources
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.GenerateResource.cache
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.exe
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.pdb
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.frmInfo.resources
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.frmReport.resources
+C:\Users\Vu Ho\source\repos\project\disturbo_tax\obj\Debug\disturbo_tax.frmResult.resources
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\bin\Debug\disturbo_tax.exe.config
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\bin\Debug\disturbo_tax.exe
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\bin\Debug\disturbo_tax.pdb
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.csprojAssemblyReference.cache
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.frmInfo.resources
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.frmReport.resources
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.frmResult.resources
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.Properties.Resources.resources
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.GenerateResource.cache
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.exe
+C:\Users\Vu Ho\Desktop\OOPL\C#\project\disturbo_tax\obj\Debug\disturbo_tax.pdb
+E:\OOPL\project\disturbo_tax\bin\Debug\disturbo_tax.exe.config
+E:\OOPL\project\disturbo_tax\bin\Debug\disturbo_tax.exe
+E:\OOPL\project\disturbo_tax\bin\Debug\disturbo_tax.pdb
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.csprojAssemblyReference.cache
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.frmInfo.resources
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.frmReport.resources
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.frmResult.resources
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.Properties.Resources.resources
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.GenerateResource.cache
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.csproj.CoreCompileInputs.cache
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.exe
+E:\OOPL\project\disturbo_tax\obj\Debug\disturbo_tax.pdb
